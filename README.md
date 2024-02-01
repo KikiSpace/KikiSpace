@@ -34,6 +34,6 @@ I'm a engineer/researcher with a passion for Mixed Reality. I love to explore ne
 
 ## 📫 How to Reach Me
 - **Email**: xinqizhangphd@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/xinqi-zhang-829044179/)
-- **Twitter**: [@yourhandle](https://twitter.com/zxxinqi)
-- **Website**: [YourWebsite.com](https://www.kiki.id/)
+- **LinkedIn**: [Xinqi Zhang](https://www.linkedin.com/in/xinqi-zhang-829044179/)
+- **Twitter**: [Kiki](https://twitter.com/zxxinqi)
+- **Website**: [KikiSpace](https://www.kiki.id/)
