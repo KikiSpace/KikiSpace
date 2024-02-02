@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/jFNTzpnwahSwg/giphy.gif?cid=ecf05e479kqdpqw3mmgiw8qy8f951ge18xrhwlv64s3qt1n3&ep=v1_gifs_related&rid=giphy.gif&ct=g)](https://www.kiki.id/)
+
 <h1 align="center">Hi 🌵, I'm Kiki ｜ 张欣琪 </h1>
 <h3 align="center">A passionate software engineer and researcher </h3>
 <img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/GCgRPoDagAEeolP?format=jpg&name=small">
