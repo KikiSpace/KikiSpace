@@ -34,7 +34,7 @@ I'm a engineer/researcher with a passion for Mixed Reality. I love to explore ne
 - **Others**: AWS, Azure
 
 ## 📈 GitHub Stats - Since 2024
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kiki](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 <!-- ## 🔭 Projects
 - **[Project Name 1]**: A brief description of your project. ([Link to Project](#))
