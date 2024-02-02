@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineer and researcher </h3>
 
 
-<img align="right" alt="Coding" width="200" src="https://pbs.twimg.com/profile_images/1739939883341565952/lrj0Vebe_400x400.jpg">
+<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/GFS4Mj1bUAA0c8_?format=jpg&name=large">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="kiki" /> </p>
 
 - 🔭 I’m currently working on **React Dev**
