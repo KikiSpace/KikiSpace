@@ -1,4 +1,3 @@
-<center><img  alt="Coding" width="1000" src="https://pbs.twimg.com/media/GCgRPoDagAEeolP?format=jpg&name=medium"></center>
 
 <h1 align="center">Hi 🌵, I'm Kiki ｜ 张欣琪 </h1>
 <h3 align="center">A passionate software engineer and researcher </h3>
