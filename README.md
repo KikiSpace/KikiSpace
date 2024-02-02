@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi 🌵, I'm Kiki ｜ 张欣琪 </h1>
 <h3 align="center">A passionate software engineer and researcher </h3>
-<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/GCgRPoDagAEeolP?format=jpg&name=small">
 
 
+<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/profile_images/1739939883341565952/lrj0Vebe_400x400.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="kiki" /> </p>
 
 - 🔭 I’m currently working on **React Dev**
