@@ -26,7 +26,7 @@ Previously, I worked as a Full-Stack Software Engineer at Microsoft and interned
 - 🔍 *FocusFinder*: Chrome Extension to support distraction-free web browsing  
 - 🧩 *Adaptive UI Experiments*: Exploring context-aware interface prototypes for personalized learning & well-being  
 
-## I Value
+## Value
 
 > "Technology should serve people first."
 
