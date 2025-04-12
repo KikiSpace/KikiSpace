@@ -20,15 +20,11 @@ I'm a Ph.D. student in the Human-Computer Interaction Lab at Santa Clara Univers
 
 Previously, I worked as a Full-Stack Software Engineer at Microsoft and interned at Amazon Web Services. My industry experience drives my passion for building systems that bridge technology and human needs.
 
----
-
 ## Current Projects
 
 - ✨ *Thámien Ohlone AR Tour*: Location-based AR storytelling app to share Indigenous Ohlone history at SCU  
 - 🔍 *FocusFinder*: Chrome Extension to support distraction-free web browsing  
 - 🧩 *Adaptive UI Experiments*: Exploring context-aware interface prototypes for personalized learning & well-being  
-
----
 
 ## I Value
 
@@ -36,16 +32,12 @@ Previously, I worked as a Full-Stack Software Engineer at Microsoft and interned
 
 I'm passionate about designing meaningful systems that spark reflection, empower learning, and create positive impact — blending technology, anthropology, and art.
 
----
-
 ## Connect with Me
 
 - 🌐 [Website / Portfolio](https://kiki.id)  
 - 📝 [Google Scholar](https://scholar.google.com/citations?user=s0yYbUQAAAAJ)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/xinqi-zhang/)  
 - 🧪 [GitHub Projects](https://github.com/xinqizhang)  
-
----
 
 ## Fun Fact
 
