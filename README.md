@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineer and researcher </h3>
 
 
-<img align="right" alt="Coding" width="377" src="https://pbs.twimg.com/media/GFS4Mj1bUAA0c8_?format=jpg&name=large">
+<img align="right" alt="Coding" width="350" src="https://pbs.twimg.com/media/GFS4Mj1bUAA0c8_?format=jpg&name=large">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="kiki" /> </p>
 
 🎓 Ph.D. Student @ Santa Clara University  
