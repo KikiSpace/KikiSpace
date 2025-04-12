@@ -29,7 +29,7 @@ Previously, I worked as a Full-Stack Software Engineer at Microsoft and interned
 
 ## Current Projects
 
-- 🔍 *FocusFinder*: Chrome Extension to support distraction-free web browsing  
+- 🔍 *FocusMode*: Chrome Extension to support distraction-free web browsing  
 - ✨ *Thámien Ohlone AR Tour*: Location-based AR storytelling app to share Indigenous Ohlone history at SCU  
 - 🧩 *Adaptive UI Experiments*: Exploring context-aware interface prototypes for personalized learning & well-being  
 
