@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="kiki" /> </p>
 
 
-🐰 Xinqi Zhang | Kiki | 张·予嫣·欣琪  
+🐰 Xinqi Zhang | Kiki | 张·欣琪·予嫣 
 🎓 Ph.D. Student @ Santa Clara University 
 
 🩵 Human-Computer Interaction (HCI) | Augmented Reality (AR) | Adaptive User Interfaces | AI Agents  
