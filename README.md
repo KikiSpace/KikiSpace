@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 🌵, I'm Kiki ｜ 张·予嫣·欣琪 </h1>
+<h1 align="center">Hi 🌵, I'm Kiki ｜ 张欣琪 </h1>
 <h3 align="center">A passionate software engineer and researcher </h3>
 
 [![](https://img.shields.io/badge/-@KikiSpace-%23181717?style=flat-square&logo=github)](https://github.com/KikiSpace)
