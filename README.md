@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 🌵, I'm Kiki ｜ 张欣琪 </h1>
+<h1 align="center">Hi 🌵, I'm Kiki ｜ 张·予嫣·欣琪 </h1>
 <h3 align="center">A passionate software engineer and researcher </h3>
 
 [![](https://img.shields.io/badge/-@KikiSpace-%23181717?style=flat-square&logo=github)](https://github.com/KikiSpace)
@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="kiki" /> </p>
 
 
-🐰 Xinqi Zhang | Kiki | 张欣琪  
+🐰 Xinqi Zhang | Kiki | 张·予嫣·欣琪  
 🎓 Ph.D. Student @ Santa Clara University 
 
 🩵 Human-Computer Interaction (HCI) | Augmented Reality (AR) | Adaptive User Interfaces | AI Agents  
