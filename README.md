@@ -63,7 +63,7 @@ Community       █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   5
   <tr>
     <td>
 
-![Kiki GitHub Stats](https://github-readme-stats.vercel.app/api?username=KikiSpace&show_icons=true&theme=dracula)
+🐰
 
 </td>
     <td>
