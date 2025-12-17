@@ -14,7 +14,7 @@
 🐰 Xinqi Zhang | Kiki | 张欣琪·予嫣 
 🎓 Ph.D. Student @ Santa Clara University 
 
-🩵 Human-Computer Interaction (HCI) | Augmented Reality (AR) | Adaptive User Interfaces | AI Agents  
+🩵 Human-Computer Interaction (HCI) | Adaptive User Interfaces | Gen-AI assisted Creativity & Design | AI Agents  
 ✨ Designing technology to serve people — empowering learning, well-being, and storytelling  
 
 ## About Me
