@@ -19,19 +19,31 @@
 
 ## About Me
 
-I'm a Ph.D. student in the Human-Computer Interaction Lab at Santa Clara University, advised by Prof. Kai Lukoff. My research lies at the intersection of interactive technology and human-centered design — with a focus on:
+I’m a Ph.D. student in the Human-Computer Interaction Lab at Santa Clara University, advised by Prof. Kai Lukoff. My research explores how Generative AI reshapes interactive system design, particularly how designers and developers prototype, collaborate, and reason about interfaces when AI is in the loop.
 
-- 🕶️ Context-aware Augmented Reality for education & cultural storytelling  
-- 🤖 AI-in-the-loop Adaptive Interfaces for personalized user experiences  
-- 🌱 Digital Well-being tools for focus & mindful technology use  
+My work sits at the intersection of HCI, AI-assisted prototyping, and adaptive interfaces, with a focus on:
 
-Previously, I worked as a Full-Stack Software Engineer at Microsoft and interned at Amazon Web Services. My industry experience drives my passion for building systems that bridge technology and human needs.
+- **Generative Interfaces (Gen-UI):**
+Rethinking the design–development divide, vibe-coding, and AI-mediated UI prototyping workflows
+-	**Adaptive & Context-Aware Interfaces:**
+Personalization, mixed-initiative systems, and human-AI collaboration for learning and well-being
+-	**Digital Well-Being & Intent-Aware Systems:**
+Designing tools that support focus, agency, and mindful technology use on content platforms
+-	**Augmented Reality for Education & Cultural Storytelling:**
+Context-aware AR experiences that support situated learning and heritage preservation
 
+Previously, I worked as a Full-Stack Software Engineer at Microsoft and interned at Amazon Web Services. This industry background strongly informs my research practice—I build real, deployable systems to study human-AI interaction in the wild.
 ## Current Projects
 
-- 🔍 *FocusMode*: Chrome Extension to support distraction-free web browsing  
-- ✨ *Thámien Ohlone AR Tour*: Location-based AR storytelling app to share Indigenous Ohlone history at SCU  
-- 🧩 *Adaptive UI Experiments*: Exploring context-aware interface prototypes for personalized learning & well-being  
+-	**FocusMode**
+
+An AI-powered Chrome extension exploring adaptive, intent-aware interfaces for distraction-free web and YouTube experiences
+-	**AI-Assisted Prototyping & Vibe-Coding Studies**
+
+Empirical and design research on how Generative AI changes UI prototyping, authorship, and designer–developer collaboration 
+-	**Thámien Ohlone AR Tour**
+
+A location-based AR storytelling experience sharing Indigenous Ohlone history and culture at Santa Clara University
 
 ## Value
 
@@ -39,10 +51,7 @@ Previously, I worked as a Full-Stack Software Engineer at Microsoft and interned
 
 I'm passionate about designing meaningful systems that spark reflection, empower learning, and create positive impact — blending technology, anthropology, and art.
 
-## Fun Fact
-
 I keep a "white-belt mentality" — always learning from everyone, everywhere.  
-Currently exploring AR+AI for adaptive education and digital well-being.  
 
 Let's build tech that matters 🚀  
 
