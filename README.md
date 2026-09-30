@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/-@XinqiZhangLinkedIn-%23000000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/xzhangkiki/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=kiki.id&url=https%3A%2F%2Fxlbd.me)](https://kiki.id)
 
+<img align="right" alt="Coding" width="250" src="https://pbs.twimg.com/media/GFS4Mj1bUAA0c8_?format=jpg&name=large">
 
 
 
