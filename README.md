@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 🌵, I'm Kiki ｜ 张欣琪 </h1>
-<h3 align="center">A passionate software engineer and researcher </h3>
+<h1 align="center">Hi 🌵, I'm Kiki ｜ Xinqi Zhang ｜ 张欣琪</h1>
+
+<h3 align="center">Software Engineer & Researcher</h3>
+
 
 [![](https://img.shields.io/badge/-@KikiSpace-%23181717?style=flat-square&logo=github)](https://github.com/KikiSpace)
 [![](https://img.shields.io/badge/-@XinqiZhangKiki-%23000000?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=s0yYbUQAAAAJ)
@@ -14,37 +16,61 @@
 🐰 Xinqi Zhang | Kiki | 张欣琪 
 🎓 Ph.D. Student @ Santa Clara University 
 
-🩵 Human-Computer Interaction (HCI) | Adaptive User Interfaces | Gen-AI assisted Creativity & Design | AI Agents  
-✨ Designing technology to serve people — empowering learning, well-being, and storytelling  
+🩵 Human-Computer Interaction (HCI) | Runtime GenUI · AI-Assisted Design & Development · User-Defined Computing  
+
 
 ## About Me
 
-I’m a Ph.D. student in the Human-Computer Interaction Lab at Santa Clara University, advised by Prof. Kai Lukoff. My research explores how Generative AI reshapes interactive system design, particularly how designers and developers prototype, collaborate, and reason about interfaces when AI is in the loop.
+I'm a Ph.D. student in the Human-Computer Interaction Lab at Santa Clara University. My research explores how generative AI is changing **who can create and shape computing**.
 
-My work sits at the intersection of HCI, AI-assisted prototyping, and adaptive interfaces, with a focus on:
+I'm particularly interested in **Runtime Generative User Interfaces (GenUI)**, **AI-assisted design and development**, and a broader vision I think of as **user-defined computing**: enabling people to create and shape the interfaces, tools, and digital experiences they want without being limited by their existing technical or design expertise.
 
-- **Generative Interfaces (Gen-UI):**
-Rethinking the design–development divide, vibe-coding, and AI-mediated UI prototyping workflows
--	**Adaptive & Context-Aware Interfaces:**
-Personalization, mixed-initiative systems, and human-AI collaboration for learning and well-being
--	**Digital Well-Being & Intent-Aware Systems:**
-Designing tools that support focus, agency, and mindful technology use on content platforms
--	**Augmented Reality for Education & Cultural Storytelling:**
-Context-aware AR experiences that support situated learning and heritage preservation
+My current work asks questions such as:
 
-Previously, I worked as a Full-Stack Software Engineer at Microsoft and interned at Amazon Web Services. This industry background strongly informs my research practice—I build real, deployable systems to study human-AI interaction in the wild.
-## Current Projects
+- How does user intent form and evolve while interacting with digital systems?
 
--	**FocusMode**
+- How can interfaces dynamically compose features around those evolving intentions?
 
-An AI-powered Chrome extension exploring adaptive, intent-aware interfaces for distraction-free web and YouTube experiences
--	**AI-Assisted Prototyping & Vibe-Coding Studies**
+- How should responsibility be divided between users and generative systems?
 
-Empirical and design research on how Generative AI changes UI prototyping, authorship, and designer–developer collaboration 
--	**Thámien Ohlone AR Tour**
+- How can AI expand what people are capable of creating while preserving human agency and control?
 
-A location-based AR storytelling experience sharing Indigenous Ohlone history and culture at Santa Clara University
+I approach these questions as both a **researcher and engineer**. I enjoy moving between understanding human behavior, designing new interaction paradigms, and building working systems to explore what future computing could look like.
 
+#### Research Directions
+
+- **Runtime GenUI**: Exploring interfaces that can be dynamically composed and adapted at runtime around users' evolving goals, rather than being entirely predefined by designers and developers.
+
+- **AI-Assisted Design & Development**: Studying how generative AI changes the way people design, prototype, and build software—and how these capabilities can extend creation beyond people's existing technical expertise.
+
+- **User-Defined Computing**: Exploring a future where people do not simply use software created for them, but can actively define and shape the interfaces, tools, and computing experiences they need.
+
+- **Human Agency & Digital Wellbeing**: Designing intelligent and adaptive systems that support people's goals while preserving agency, control, and intentional technology use.
+
+
+## Selected Projects
+
+#### 🌸 Jacaranda — Runtime GenUI
+
+A research system exploring **feature-level interface composition**: how interface features from different sources can be composed around users' evolving goals at runtime.
+
+Our work investigates intent formation, feature composition, mixed-initiative interaction, and how responsibility for interface creation should be distributed between users and generative systems.
+
+#### FocusMode
+
+A browser-based research system exploring adaptive interfaces for digital wellbeing.
+
+FocusMode investigates how interfaces can respond to users' intentions and reduce distraction while preserving agency and control.
+
+#### AI-Assisted Design & Development
+
+Ongoing research exploring how generative AI and emerging practices such as vibe coding reshape software creation, prototyping, authorship, and the roles of designers, developers, and end users.
+
+## Background
+
+Before starting my Ph.D., I worked as a Software Engineer at Microsoft and interned as a Software Development Engineer at Amazon.
+
+I have 8+ years of experience building full-stack systems. My engineering background strongly shapes how I approach HCI research: I like to turn research questions into working systems that people can actually interact with.
 ## Value
 
 > "Technology should serve people first."
